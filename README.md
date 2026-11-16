@@ -29,4 +29,3 @@ Repositório dedicado aos meus estudos de Python com foco em Programação Orien
 
 - Python 3
 - Git
-- GitHub
